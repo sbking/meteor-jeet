@@ -1,0 +1,20 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "jeet": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "jeet": {
+        "path": "."
+      },
+      "scss": {
+        "git": "https://github.com/fourseven/meteor-scss.git",
+        "tag": "v0.8.4",
+        "commit": "11af0da643944d241fe7d173af76162c4b670dee"
+      }
+    }
+  }
+}

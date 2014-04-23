@@ -1,0 +1,11 @@
+{
+  "name": "jeet",
+  "description": "The most advanced, yet intuitive, grid system available for Sass or Stylus",
+  "author": "MojoTech",
+  "homepage": "http://jeet.gs/",
+  "version": "5.2.7",
+  "git": "https://github.com/sbking/jeet.git",
+  "packages": {
+    "scss": {}
+  }
+}

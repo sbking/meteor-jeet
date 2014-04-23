@@ -1,0 +1,3 @@
+[submodule "jeet"]
+	path = jeet
+	url = https://github.com/mojotech/jeet
