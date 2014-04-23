@@ -1,5 +1,5 @@
-jeet
-====
+Jeet Grid System
+================
 
 This is a simple package for the excellent [Jeet Grid System](http://jeet.gs/) by MojoTech. It may be used with either Stylus or SCSS.
 
