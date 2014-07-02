@@ -3,7 +3,7 @@
   "description": "The most advanced, yet intuitive, grid system available for Sass or Stylus",
   "author": "MojoTech",
   "homepage": "http://jeet.gs/",
-  "version": "5.3.0",
+  "version": "5.3.01",
   "git": "https://github.com/sbking/jeet.git",
   "packages": {
     "scss": {}
