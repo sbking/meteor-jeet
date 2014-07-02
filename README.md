@@ -8,11 +8,11 @@ Stylus Usage
 
 Add the `stylus` or `stylus-latest` package to your project. Then add this import to the top of your main `.styl` file(s):
 
-    @import 'packages/jeet/jeet.styl'
+    @import 'packages/jeet'
 
 SCSS Usage
 ----------
 
 Add the `scss` package to your project. Then add this import to the top of your main `.scss` file(s):
 
-    @import 'packages/jeet/jeet.scss';
+    @import 'packages/jeet/jeet';
